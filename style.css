@@ -1,0 +1,145 @@
+*{
+    font-family: "Labrada", serif;
+    color: aliceblue;
+}
+
+ul li{
+    font-size: 17px;
+    color: aliceblue;
+}
+ 
+#btnnn:hover{
+    background-color: whitesmoke;
+    color: #cb1228;
+    border-color: whitesmoke;
+}
+
+
+@media screen and (min-width :700px){
+#main{
+    background-image: url("https://tourismmedia.italia.it/is/image/mitur/1600X1000_8_cose_imperdibili_natale_di_roma_hero-1?wid=1080&hei=660&fit=constrain,1&fmt=webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#textss h1{
+    font-size: 100px;
+    justify-content: center;
+    text-align: center;
+}
+#logooo{
+    padding-left: 60px ;
+}
+
+.booking{
+    background-color: #3B79C9;
+    height: 40vh;
+    width: 100%;
+}
+
+.bookin{
+    padding-top: 80px;
+}
+/* #pxno{
+    padding-right: 0px;
+}
+#chein{
+    padding-right: 70px;
+}
+#chda{
+    padding-right: 300px;
+} */
+#lo{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.mmm{
+    background-color: #223544;
+    height: 60vh;
+}
+
+}
+@media screen and (max-width :700px) {
+    #main{
+        background-image: url("https://w0.peakpx.com/wallpaper/181/624/HD-wallpaper-taj-mahal-famous-place-famous-place.jpg");
+        background-repeat: fixed;
+        background-size: contain;
+        color: azure;
+        font-weight: 500;
+        text-shadow: black;
+        width: 120%;
+        height: 100vh;
+    }
+    #textss h1{
+        font-size: 50px;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #mew{
+        padding-left: 270px;
+        padding-top: 10px;
+    }
+    .booking{
+        background-color: #3B79C9;
+        height: 50vh;
+        width: 100%;
+    }
+    .bookin{
+        padding-top: 40px;
+    }
+    #conta{
+        background-color: white;
+        
+    }
+    .mmm{
+        background-color: #223544;
+        height: 100vh;
+    }
+    
+}
+
+#mainn{
+    background-color: rgba(0, 0, 0, 0.533);
+    width: 100%;
+    height: 100vh;
+}
+
+
+#textss p{
+    text-align: justify;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+}
+
+#textss a{
+    margin-left: 25%;
+}
+
+#btnn1:hover{
+    background-color: white;
+    color: blue;
+}
+
+#btnn2:hover{
+    background-color: blue;
+    color: white;
+}
+
+/* .nopp p{
+    text-align: justify;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+    color: black;
+
+} */
+
+.mom{
+    border-radius: 40px;
+}
+
+
