@@ -15,12 +15,12 @@ ul li{
 }
 
 
-@media screen and (min-width :700px){
+@media screen and (min-width :763px){
 #main{
     background-image: url("https://tourismmedia.italia.it/is/image/mitur/1600X1000_8_cose_imperdibili_natale_di_roma_hero-1?wid=1080&hei=660&fit=constrain,1&fmt=webp");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 120vh;
 }
 #textss h1{
     font-size: 100px;
@@ -59,27 +59,27 @@ ul li{
 }
 
 }
-@media screen and (max-width :700px) {
+@media screen and (max-width :763px) {
     #main{
-        background-image: url("https://w0.peakpx.com/wallpaper/181/624/HD-wallpaper-taj-mahal-famous-place-famous-place.jpg");
-        background-repeat: fixed;
-        background-size: contain;
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhMFlIdsX0ZJMf1HynFijwljDaAPwSS-7aNg&s");
+        background-repeat: no-repeat;
+        background-size: cover;
         color: azure;
         font-weight: 500;
         text-shadow: black;
-        width: 120%;
-        height: 100vh;
+        width: 100%;
+        height: 100%;
+        
     }
     #textss h1{
         font-size: 50px;
         justify-content: center;
         text-align: center;
     }
-
+/* 
     #mew{
         padding-left: 270px;
-        padding-top: 10px;
-    }
+    } */
     .booking{
         background-color: #3B79C9;
         height: 50vh;
@@ -92,17 +92,14 @@ ul li{
         background-color: white;
         
     }
-    .mmm{
-        background-color: #0D6EFD;
-        height: 100vh;
-    }
+
     
 }
 
 #mainn{
     background-color: rgba(0, 0, 0, 0.533);
     width: 100%;
-    height: 100vh;
+    height: 120vh;
 }
 
 
